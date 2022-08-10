@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+  <h1 class="text-light"><a href="index.html">SREERAG PC</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://www.linkedin.com/in/sreeragpc" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://github.com/Sreeragpc/" class="github"><i class="bx bxl-github"></i></a>
+           <a href="mailto:sreerag939@gmail.com" class="gmail"><i class="bx bxl-google"></i></a>
+           <a href="https://api.whatsapp.com/send/?phone=919048212429&text&app_absent=0" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+          <a href="https://www.instagram.com/p.c_________/" class="instagram"><i class="bx bxl-instagram"></i></a>
+          
+        </div>
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
