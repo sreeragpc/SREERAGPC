@@ -1,10 +1,8 @@
-# Hello, I am Sreerag !<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
+# Hi 👋, I'm sreerag pc !<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 <p align="center" >
   <img src="images/matr.gif"   title="Hi, nice to meet you!">
 </p>
-
-<h1 align="center">Hi 👋, I'm sreerag pc</h1>
-<h3 align="center">A passionate Python developer</h3>
+<h3 >A passionate Python dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeragpc&label=Profile%20views&color=0e75b6&style=flat" alt="sreeragpc" /> </p>
 
@@ -17,8 +15,6 @@
 - 💬 Ask me about **Machine learning,Computer vision**
 
 - 📫 How to reach me **sreerag939@gmail.com**
-
-- ⚡ Fun fact **Don't be decorator to me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sreeragpc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sreeragpc" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreeragpc&show_icons=true&locale=en&layout=compact" alt="sreeragpc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreeragpc&show_icons=true&locale=en" alt="sreeragpc" /></p>
 
