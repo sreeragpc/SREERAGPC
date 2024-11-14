@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeragpc&label=Profile%20views&color=0e75b6&style=flat" alt="sreeragpc" /> </p>
 
-- 🔭 I’m currently working on **Object detection**
+- 🔭 I’m currently working as a **Cloud Engineer**
 
-- 🌱 I’m currently learning **Tensor flow, Pytorch**
+- 🌱 I’m currently learning **K8S**
 
 - 👨‍💻 All of my projects are available at [www.sreergpc.com](www.sreergpc.com)
 
